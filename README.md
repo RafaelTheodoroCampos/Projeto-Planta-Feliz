@@ -30,10 +30,6 @@ Após baixar os arquivos:
 
 ```
 
-Criando tabelas no banco de dados para a criação das tebelas:
-```
-
-```
 Iniciando o programa:
 ```
 

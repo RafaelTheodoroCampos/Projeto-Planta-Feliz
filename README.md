@@ -1,6 +1,6 @@
-# Projeto-Planta-Feliz
+# Projeto-Planta-Feliz 🌱
 # O projeto surge como uma solução para um problema sério da atualidade!! 
-# A morte de plantas caseiras por falta de irrigação. Sua principal causa são pais de família atarefados, e ressacas no fim de semana, sendo assim um irrigador de planta automático seria de grande ajuda para a felicidade das plantas.
+# A morte de plantas caseiras por falta de irrigação ☠️☠️. Sua principal causa são: Viagens em família nos finais de semana e esquecimento esquecido, provocando a raiva de mães e esposas. Sendo assim um irrigador de planta automático seria de grande ajuda para a felicidade das plantas 🤯.
 
 
 ## 🚀 Começando

@@ -6,6 +6,13 @@
 ## 🚀 Começando
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+### 📋 Plano do projeto
+
+
+```
+https://docs.google.com/spreadsheets/d/1-WENBV0wxpzXN4tLefUYygUFTHETGYRR/edit?usp=sharing&ouid=116868318870894232341&rtpof=true&sd=true
+
+```
 
 ### 📋 Pré-requisitos
 

@@ -14,12 +14,16 @@ https://docs.google.com/spreadsheets/d/1-WENBV0wxpzXN4tLefUYygUFTHETGYRR/edit?us
 
 ```
 
-### 📋 Pré-requisitos
+### 📋 Componentes Utilizados
 
 
 
 ```
-
+Sensor de temperatura LM35DZ
+Módulo relé 5v(1 Canal)
+Bomba Submersa(4.5V)
+Sensor Capacitivo de Umidade do Solo
+Placa Wemos D1(ESP32)
 
 ```
 

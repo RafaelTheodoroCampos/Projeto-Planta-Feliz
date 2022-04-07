@@ -10,7 +10,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 
 ```
-https://docs.google.com/spreadsheets/d/1-WENBV0wxpzXN4tLefUYygUFTHETGYRR/edit?usp=sharing&ouid=116868318870894232341&rtpof=true&sd=true
+https://www.evernote.com/shard/s312/client/snv?noteGuid=a13adfe1-65c9-11d5-fb96-0861929e4850&noteKey=9e84545369e450b1132ff758647b4e79&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs312%2Fsh%2Fa13adfe1-65c9-11d5-fb96-0861929e4850%2F9e84545369e450b1132ff758647b4e79&title=Brainstorm%2Be%2Bposs%25C3%25ADvel%2Bdefini%25C3%25A7%25C3%25A3o%2Bde%2Btarefas
 
 ```
 
